@@ -1,0 +1,4 @@
+order_id,edition_id,channel,ordered_at,quantity,state,change_consent
+O-101,ED-A,museum-shop,2027-01-14,42,paid,not-requested
+O-102,ED-A,online,2027-01-18,28,paid,accepted
+O-103,ED-B,bookstore,2027-01-19,35,reserved,not-requested

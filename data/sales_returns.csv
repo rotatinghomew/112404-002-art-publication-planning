@@ -1,0 +1,4 @@
+event_id,edition_id,channel,event_date,event_type,quantity,maturity_date
+S-1,ED-A,museum-shop,2027-02-21,sale,19,2027-02-21
+S-2,ED-A,online,2027-03-04,return,2,2027-03-18
+S-3,ED-C,event-desk,2027-03-22,sale,14,2027-03-22

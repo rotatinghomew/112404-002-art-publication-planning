@@ -1,0 +1,4 @@
+content_id,rightsholder,medium,territory,valid_from,valid_to,adaptation_allowed,state
+IMG-A,RH-1,print,CN,2026-12-01,2027-06-30,no,active
+IMG-B,RH-2,print,global,2027-01-01,2027-04-01,yes,pending
+ESSAY-A,AU-4,print,CN,2027-01-01,2027-12-31,yes,active
